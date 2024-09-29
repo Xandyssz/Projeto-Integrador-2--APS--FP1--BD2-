@@ -60,10 +60,10 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 ### Requisitos Básicos
 
-- **Func. Básico 1.0 - Manter Produtos:** Gerencia o cadastro de produtos.
-- **Func. Básico 1.1 - Manter Fornecedores:** Gerencia informações sobre fornecedores.
-- **Func. Básico 1.2 - Manter Funcionários:** Gerencia o cadastro de funcionários.
-- **Func. Básico 1.3 - Manter Convênios:** Gerencia convênios e parcerias.
+- **Func. Básica 1.0 - Manter Produtos:** Gerencia o cadastro de produtos.
+- **Func. Básica 1.1 - Manter Fornecedores:** Gerencia informações sobre fornecedores.
+- **Func. Básica 1.2 - Manter Funcionários:** Gerencia o cadastro de funcionários.
+- **Func. Básica 1.3 - Manter Convênios:** Gerencia convênios e parcerias.
 
 ### Requisitos de Saída
 
@@ -72,16 +72,15 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Func. Saída 1.2 - Gerar Relatório de Compras:** Gera relatórios sobre compras efetuadas.
 
 ### Regras de Negócio
-- **Regra de Negócio 1.0 -  Aplicar Desconto para Produtos Próximos ao Vencimento:** 
-- **Regra de Negócio 1.0 -  Gerenciar Promoções Temporárias.**
-- **Regra de Negócio 1.0 -  Aplicar Desconto para Produtos Próximos ao Vencimento:**
-- **Regra de Negócio 1.0 -  Notificação de Reposição Antecipada.**
-- **Regra de Negócio 1.0 -  Alerta de Vencimento.**
+- **Regra de Negócio 1.0 -  Aplicar Desconto para Produtos Próximos ao Vencimento: Aplica descontos a produtos que estão próximos do vencimento.** 
+- **Regra de Negócio 1.1 -  Gerenciar Promoções Temporárias: Permite a criação e gerenciamento de promoções temporárias**
+- **Regra de Negócio 1.2 -  Notificação de Reposição Antecipada: Emite notificações quando os níveis de produtos estiverem baixos,**
+- **Regra de Negócio 1.3 -  Alerta de Vencimento: Emite alertas sobre produtos com data de vencimento próxima,**
 
 # Capítulo 4 - Requisitos Específicos
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](link-para-imagem-do-diagrama) <!-- Substitua pelo link da imagem do diagrama -->
+![Diagrama de Caso de Uso](link-para-imagem-do-diagrama)
 <hr>
 
 ## Especificação Textual dos Casos de Uso
@@ -109,7 +108,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 
 ## Diagrama de Atividade
-![Diagrama de Atividade](link-para-imagem-do-diagrama-de-atividade) <!-- Substitua pelo link da imagem do diagrama de atividade -->
+![Diagrama de Atividade](link-para-imagem-do-diagrama-de-atividade)
 
 <hr>
 
