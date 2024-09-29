@@ -107,11 +107,21 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Manter Fornecedor (CRUD)**  
   Especificação: [Link para especificação](link-para-especificacao-compra.txt)
 
+### Diagramas de Atividade
 
-## Diagrama de Atividade
-![Diagrama de Atividade](link-para-imagem-do-diagrama-de-atividade)
+- [Diagrama de Atividade - Abrir Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Abrir%20Caixa/DEA-Abrir_Caixa.png)
 
+- [Diagrama de Atividade - Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa/DEA-Fechar_Caixa.png)
+
+- [Diagrama de Atividade - Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/DEA_EfetuarCompra.png)
+
+- [Diagrama de Atividade - Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/DEA_EfetuarVenda.png)
+
+- [Diagrama de Atividade - Pagar Fornecedor](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Pagar%20Fornecedor/DEA_PagarFornecedor.png)
+
+- [Diagrama de Atividade - Realizar Sangria](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Sangria%20Caixa/DEA_RealizarSangriaCaixa.png)
+
+- [Diagrama de Atividade - Realizar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/DEA_RealizarSuprimentoCaixa.png)
+
+- [Diagrama de Atividade - Receber Produtos](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/DEA_ReceberProdutos.png)
 <hr>
-
-- **Atividade: Processo de Compra**  
-  Link para imagem: [link-para-imagem-do-processo-de-compra](link-para-imagem-do-processo-de-compra.png)
