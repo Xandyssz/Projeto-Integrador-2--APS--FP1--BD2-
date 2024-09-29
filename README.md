@@ -105,7 +105,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
   Especificação: [Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarCompra.txt)
 
 - **Caso: Manter Funcionário (CRUD)**  
-  Especificação: [Link para especificação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20-%20CRUD%20Funcion%C3%A1rio.txt)
+  Especificação: [CRUD Funcionário](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20-%20CRUD%20Funcion%C3%A1rio.txt)
 
 ### Diagramas de Atividade
 
