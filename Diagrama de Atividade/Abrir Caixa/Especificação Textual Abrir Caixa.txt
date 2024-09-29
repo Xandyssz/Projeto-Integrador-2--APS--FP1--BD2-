@@ -5,12 +5,12 @@ Pré-condições: O caixa está fechado.
 
 Fluxo Principal (cenário de sucesso):
 
-O caso de uso inicia quando o administrador/funcionário informa que deseja abrir o caixa.
-O sistema consulta o status do caixa.
-O sistema verifica que o caixa está fechado.
-O sistema realiza a abertura do caixa.
+1. O caso de uso inicia quando o administrador/funcionário informa que deseja abrir o caixa.
+2. O sistema consulta o status do caixa.
+3. O sistema verifica que o caixa está fechado.
+4. O sistema realiza a abertura do caixa.
+
 Pós-condições: O caixa está aberto.
 
-Fluxos Alternativos: 2a. O caixa já está aberto.
-
-O sistema finaliza o caso de uso sem realizar nenhuma ação adicional.
+Fluxos Alternativos: 
+2a. O caixa já está aberto.
