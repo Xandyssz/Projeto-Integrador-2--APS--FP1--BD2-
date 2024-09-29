@@ -1,0 +1,26 @@
+Caso de Uso: Efetuar Venda
+
+Ator principal: Administrador/Funcionário
+
+Pré-condições: Caixa aberto.
+
+Fluxo Principal (cenário de sucesso):
+
+Este caso de uso inicia quando o administrador ou funcionário acessa o sistema para efetuar uma venda.
+O sistema verifica se o caixa está aberto.
+O administrador/funcionário seleciona os produtos.
+O sistema verifica a disponibilidade dos produtos em estoque.
+O sistema calcula o total da venda.
+O administrador/funcionário escolhe o método de pagamento.
+O sistema processa o pagamento e emite a nota fiscal.
+O administrador/funcionário entrega o produto ao cliente.
+Pós-condições: Produto entregue e venda registrada.
+
+Fluxos Alternativos:
+2. O caixa está fechado.
+  2a. O sistema cancela a operação.
+4. O produto não está disponível em estoque.
+  4a. O sistema notifica a falta de produtos e o administrador/funcionário decide se deseja continuar ou cancelar a operação.
+  4b. O sistema cancela a operação.
+6. O cliente escolhe pagamento em dinheiro e há necessidade de troco.
+  6a. O sistema calcula o troco e o devolve ao cliente.

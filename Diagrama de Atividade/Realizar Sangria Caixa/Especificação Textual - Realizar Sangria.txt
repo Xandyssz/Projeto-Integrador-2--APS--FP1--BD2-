@@ -1,0 +1,17 @@
+
+Caso de Uso: Realizar Sangria de Caixa
+
+Ator principal: Administrador / Funcionário
+
+Pré-condições: Caixa deve estar aberto. O ator deve ter permissão para realizar a operação de sangria.
+
+Fluxo Principal (cenário de sucesso):
+
+O caso de uso inicia quando o administrador ou funcionário acessa a função de sangria no sistema.
+O sistema verifica se o caixa está aberto.
+Se o caixa estiver aberto, o administrador/funcionário informa o valor da sangria.
+O sistema atualiza o saldo do caixa com a sangria.
+O sistema emite um comprovante da operação de sangria.
+Pós-condições: O saldo do caixa é atualizado e o comprovante é emitido.
+
+Fluxo Alternativo: 2a. Se o caixa estiver fechado, o sistema solicita a abertura do caixa antes de realizar a sangria.
