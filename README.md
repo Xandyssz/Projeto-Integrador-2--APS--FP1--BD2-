@@ -104,8 +104,8 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Efetuar Compra**  
   Especificação: [Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarCompra.txt)
 
-- **Caso: Manter Fornecedor (CRUD)**  
-  Especificação: [Link para especificação](link-para-especificacao-compra.txt)
+- **Caso: Manter Funcionário (CRUD)**  
+  Especificação: [Link para especificação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20-%20CRUD%20Funcion%C3%A1rio.txt)
 
 ### Diagramas de Atividade
 
@@ -121,7 +121,13 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 - [Diagrama de Atividade - Realizar Sangria](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Sangria%20Caixa/DEA_RealizarSangriaCaixa.png)
 
-- [Diagrama de Atividade - Realizar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/DEA_RealizarSuprimentoCaixa.png)
+ - [Diagrama de Atividade - Realizar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/DEA_RealizarSuprimentoCaixa.png)
 
 - [Diagrama de Atividade - Receber Produtos](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/DEA_ReceberProdutos.png)
+  
+### CRUD Funcionário
+- [Diagrama de Atividade - CRUD Funcionário Inserir](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Manter%20Funcion%C3%A1rio.png)
+- [Diagrama de Atividade - CRUD Funcionário Alterar](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Editar%20Funcion%C3%A1rio.png)
+- [Diagrama de Atividade - CRUD Funcionário Remover](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Excluir%20Funcion%C3%A1rio.png)
+- [Diagrama de Atividade - CRUD Funcionário Consultar](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Visualizar%20Funcion%C3%A1rio.png)
 <hr>
