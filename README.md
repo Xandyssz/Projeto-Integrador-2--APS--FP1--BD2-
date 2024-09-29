@@ -80,13 +80,14 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 # Capítulo 4 - Requisitos Específicos
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](link-para-imagem-do-diagrama)
+![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/c0fd51618b5864803a7e4472529098f06822b09d/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
+
 <hr>
 
 ## Especificação Textual dos Casos de Uso
 
 - **Caso: Efetuar Venda**  
-  Especificação: [Link para especificação](link-para-especificacao-venda.txt)
+  Especificação: [Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarVenda.txt)
   
 - **Caso: Abrir Caixa**  
   Especificação: [Link para especificação](link-para-especificacao-abertura-caixa.txt)
