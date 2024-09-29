@@ -1,0 +1,52 @@
+Especificação do Caso de Uso: Manter Funcionário
+
+Fluxo Básico
+1. O caso de uso inicia quando o Administrador necessita fazer a manutenção (inclusão, alteração, exclusão ou consulta) de um funcionário.
+2. De acordo com o tipo de operação de manutenção desejado pelo Administrador, um dos subfluxos é executado:
+2a. Se o Administrador deseja incluir um novo funcionário, o subfluxo “Incluir Funcionário” é executado.
+2b. Se o Administrador deseja alterar informações de um funcionário já cadastrado, o subfluxo “Alterar Funcionário” é executado.
+2c. Se o Administrador deseja excluir um funcionário já cadastrado, o subfluxo “Remover Funcionário” é executado.
+2d. Se o Administrador deseja consultar informações sobre um ou mais funcionários cadastrados, o subfluxo “Consultar Funcionário” é executado.
+
+Sub-fluxo Incluir Funcionário
+1. Este subfluxo inicia quando o Administrador solicita incluir um funcionário.
+2. O sistema solicita ao Administrador o preenchimento dos seguintes atributos:
+Nome * (obrigatório)
+Cargo * (obrigatório)
+E-mail * (obrigatório, deve ser um formato válido)
+Telefone (opcional, deve ser um número válido)
+CPF * (obrigatório, deve ser único e seguir o formato válido)
+Endereço * (logradouro, número, bairro, cidade, estado) (obrigatório)
+3. O Administrador preenche os atributos anteriores e confirma a inclusão.
+4. O sistema valida os dados preenchidos:
+	∟ Se algum atributo obrigatório não tiver sido preenchido ou estiver inválido, o sistema exibe uma mensagem de erro informando quais campos precisam ser corrigidos.
+5. O sistema realiza a inclusão dos dados informados pelo Administrador no passo 3.
+6. O sistema exibe uma mensagem informando que a inclusão do funcionário foi efetivada com sucesso.
+
+Sub-fluxo Alterar Funcionário
+1. Este subfluxo inicia quando o Administrador solicita alterar um funcionário.
+2. O Administrador seleciona um único funcionário.
+3. O sistema solicita a alteração dos atributos listados no passo 2 do subfluxo “Incluir Funcionário”.
+4. O Administrador altera os dados desejados e confirma a alteração.
+5. O sistema valida os dados preenchidos:
+	∟ Se algum atributo obrigatório não tiver sido preenchido ou estiver inválido, o sistema exibe uma mensagem de erro informando quais campos precisam ser corrigidos.
+6. O sistema realiza a alteração dos dados informados no passo 4.
+7. O sistema exibe uma mensagem de confirmação informando que a alteração do funcionário foi efetivada com sucesso.
+
+Sub-fluxo Remover Funcionário
+1. Este subfluxo inicia quando o Administrador solicita remover um ou mais funcionários.
+2. O Administrador seleciona quais funcionários deseja remover e solicita a remoção.
+3. O sistema solicita a confirmação para remoção.
+4. O Administrador confirma a remoção.
+5. O sistema remove os funcionários confirmados.
+6. O sistema exibe uma mensagem informando que a remoção dos funcionários foi efetivada com sucesso.
+
+Sub-fluxo Consultar Funcionário
+1. Este subfluxo inicia quando o Administrador solicita consultar funcionários.
+2. O sistema solicita o preenchimento dos seguintes filtros:
+Nome (opcional)
+CPF (opcional)
+3. O Administrador preenche os filtros e solicita a consulta.
+4. O sistema apresenta as seguintes informações dos funcionários obtidos na consulta:
+Nome, cargo, e-mail, telefone, CPF e endereço.
+5. Se nenhum funcionário for encontrado, o sistema exibe uma mensagem informando que não há registros correspondentes à consulta.
