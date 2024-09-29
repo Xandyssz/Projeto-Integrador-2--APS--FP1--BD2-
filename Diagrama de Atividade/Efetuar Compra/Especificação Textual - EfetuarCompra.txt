@@ -6,19 +6,20 @@ Pré-condições: Caixa aberto.
 
 Fluxo Principal (cenário de sucesso):
 
-Este caso de uso inicia quando o administrador acessa o sistema desktop para realizar uma compra do fornecedor.
-O sistema verifica se o caixa está aberto.
-O administrador seleciona o fornecedor.
-O sistema pesquisa o fornecedor.
-O administrador seleciona os produtos.
-O sistema calcula o total da compra.
-O administrador escolhe o método de pagamento.
-O sistema finaliza a compra e gera o pedido.
-Pós-condições: Pedido gerado e compra registrada.
+1. Este caso de uso inicia quando o administrador acessa o sistema desktop para realizar uma compra do fornecedor.
+2. O sistema verifica se o caixa está aberto.
+3. O administrador seleciona o fornecedor.
+4. O sistema pesquisa o fornecedor.
+5. O administrador seleciona os produtos.
+6. O sistema calcula o total da compra.
+7. O administrador escolhe o método de pagamento.
+8. O sistema finaliza a compra e gera o pedido.
+9. Pós-condições: Pedido gerado e compra registrada.
 
 Fluxos Alternativos:
 2. O caixa está fechado.
   2a. O sistema cancela a operação.
+
 3. O fornecedor não está cadastrado.
   3.1. O sistema emite mensagem "Fornecedor não cadastrado" e questiona se o administrador deseja pesquisar outro ou cadastrá-lo.
   3.2. Retornar ao passo 5 após o cadastro.

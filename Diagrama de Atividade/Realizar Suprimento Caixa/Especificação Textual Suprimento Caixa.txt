@@ -2,16 +2,18 @@ Caso de Uso: Realizar Suprimento de Caixa
 
 Ator principal: Administrador / Funcionário
 
-Pré-condições: Caixa deve estar aberto. O ator deve ter permissão para realizar a operação de suprimento.
+Pré-condições: Caixa deve estar aberto.
 
 Fluxo Principal (cenário de sucesso):
 
-O caso de uso inicia quando o administrador ou funcionário acessa a função de suprimento no sistema.
-O sistema verifica se o caixa está aberto.
-Se o caixa estiver aberto, o administrador/funcionário informa o valor do suprimento.
-O sistema atualiza o saldo do caixa com o valor informado de suprimento.
-O sistema emite um comprovante da operação de suprimento.
+1. O caso de uso inicia quando o administrador ou funcionário acessa a função de suprimento no sistema.
+2. O sistema verifica se o caixa está aberto.
+3. O administrador/funcionário informa o valor do suprimento.
+4. O sistema atualiza o saldo do caixa com o valor informado de suprimento.
+5. O sistema emite um comprovante da operação de suprimento.
+
 Pós-condições: O saldo do caixa é atualizado e o comprovante é emitido.
 
-Fluxo Alternativo: 2a. Se o caixa estiver fechado, o sistema solicita a abertura do caixa antes de realizar o suprimento.
+Fluxo Alternativo: 
+2a. Se o caixa estiver fechado, o sistema solicita a abertura do caixa antes de realizar o suprimento.
 
