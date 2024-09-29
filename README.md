@@ -90,19 +90,19 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
   Especificação: [Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarVenda.txt)
   
 - **Caso: Abrir Caixa**  
-  Especificação: [Link para especificação](link-para-especificacao-abertura-caixa.txt)
+  Especificação: [Abrir Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Abrir%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20Abrir%20Caixa.txt)
 
 - **Caso: Fechar Caixa**  
-  Especificação: [Link para especificação](link-para-especificacao-fechamento-caixa.txt)
+  Especificação: [Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20Fechar%20Caixa.txt)
 
 - **Caso: Efetuar Sangria**  
-  Especificação: [Link para especificação](link-para-especificacao-sangria.txt)
+  Especificação: [Efetuar Sangria](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Sangria%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20-%20Realizar%20Sangria.txt)
 
 - **Caso: Efetuar Suplementação**  
-  Especificação: [Link para especificação](link-para-especificacao-suplementacao.txt)
+  Especificação: [Efetuar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20Suprimento%20Caixa.txt)
 
 - **Caso: Efetuar Compra**  
-  Especificação: [Link para especificação](link-para-especificacao-compra.txt)
+  Especificação: [Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarCompra.txt)
 
 - **Caso: Manter Fornecedor (CRUD)**  
   Especificação: [Link para especificação](link-para-especificacao-compra.txt)
