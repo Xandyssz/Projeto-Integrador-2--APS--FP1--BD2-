@@ -13,7 +13,7 @@ Fluxo Principal (cenário de sucesso):
 5. O sistema calcula o valor total a ser pago pelas faturas selecionadas.
 6. O administrador confirma o pagamento.
 7. O sistema atualiza o registro de pagamento.
-8 O Banco Central processa o pagamento e emite um comprovante.
+8. O Banco Central processa o pagamento e emite um comprovante.
 
 Pós-condições: Registro de pagamento atualizado e comprovante emitido.
 

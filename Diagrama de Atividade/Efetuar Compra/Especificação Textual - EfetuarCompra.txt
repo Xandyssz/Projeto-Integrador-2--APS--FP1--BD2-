@@ -18,9 +18,9 @@ Fluxo Principal (cenário de sucesso):
 Pós-condições: Pedido gerado e compra registrada.
 
 Fluxos Alternativos:
-2. O caixa está fechado.
+2.  O caixa está fechado.
 2a. O sistema cancela a operação.
-3. O fornecedor não está cadastrado.
+3.  O fornecedor não está cadastrado.
 3.1. O sistema emite mensagem "Fornecedor não cadastrado" e questiona se o administrador deseja pesquisar outro outro cadastrá-lo.
 3.2. Retornar ao passo 5 após o cadastro.
 6. O administrador opta por cancelar a operação.

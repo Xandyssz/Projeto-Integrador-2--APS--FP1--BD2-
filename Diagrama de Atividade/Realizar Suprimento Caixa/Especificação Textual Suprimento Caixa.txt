@@ -15,5 +15,5 @@ Fluxo Principal (cenário de sucesso):
 Pós-condições: O saldo do caixa é atualizado e o comprovante é emitido.
 
 Fluxo Alternativo: 
-2a. Se o caixa estiver fechado, o sistema solicita a abertura do caixa antes de realizar o suprimento.
+2a. O Caixa está fechado fechado, o sistema solicita a abertura do caixa antes de realizar o suprimento.
 
