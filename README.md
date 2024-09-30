@@ -104,6 +104,12 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Efetuar Compra**  
   Especificação: [Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarCompra.txt)
 
+- **Caso: Pagar Fornecedor**  
+  Especificação: [Pagar Fornecedor](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Pagar%20Fornecedor/Especifica%C3%A7%C3%A3o%20Textual%20Pagar%20Fornecedor.txt)
+
+- **Caso: Receber Produto**  
+  Especificação: [Receber Produto](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/Especifica%C3%A7%C3%A3o%20Textual%20-%20Receber%20Produtos.txt)
+
 - **Caso: Manter Funcionário (CRUD)**  
   Especificação: [CRUD Funcionário](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20-%20CRUD%20Funcion%C3%A1rio.txt)
 
