@@ -19,11 +19,10 @@ Pós-condições: Produto entregue e venda registrada.
 
 Fluxos Alternativos:
 2. O caixa está fechado.
-  2a. O sistema cancela a operação.
+2a. O sistema cancela a operação.
 
 4. O produto não está disponível em estoque.
-  4a. O sistema notifica a falta de produtos e o administrador/funcionário decide se deseja continuar ou cancelar a operação.
-  4b. O sistema cancela a operação.
-
+4a. O sistema notifica a falta de produtos e o administrador/funcionário decide se deseja continuar ou cancelar a operação.
+4b. O sistema cancela a operação.
 6. O cliente escolhe pagamento em dinheiro e há necessidade de troco.
-  6a. O sistema calcula o troco e o devolve ao cliente.
+6a. O sistema calcula o troco e o devolve ao cliente.

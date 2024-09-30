@@ -1,0 +1,24 @@
+Caso de Uso: Receber Produtos
+
+Ator principal: Administrador / Funcionário
+
+Pré-condições: Pedido registrado no sistema.
+
+Fluxo Principal (cenário de sucesso):
+
+1. O caso de uso começa quando o administrador ou funcionário informa os dados da compra.
+2. O sistema verifica a existência do pedido.
+3. O administrador ou funcionário confere a quantidade de produtos recebidos.
+4. O sistema compara o pedido e emite uma mensagem de pedido completo.
+5. O sistema atualiza o estoque.
+6. O sistema emite o comprovante de recebimento.
+
+Pós-condições: Estoque atualizado e comprovante emitido.
+
+Fluxos Alternativos: 
+3. O pedido não existe. 
+3.1 O caso de uso é encerrado.
+
+4. O pedido está incompleto. 
+4.1 O sistema emite uma mensagem de produto faltante. 
+4.2 O administrador ou funcionário pode prosseguir com o recebimento parcial.

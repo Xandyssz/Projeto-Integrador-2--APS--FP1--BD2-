@@ -9,6 +9,8 @@ Fluxo Principal (cenário de sucesso):
 2. O sistema consulta o status do caixa.
 3. O sistema verifica que o caixa está aberto.
 4. O sistema realiza o fechamento do caixa.
-5. Pós-condições: O caixa está fechado.
 
-Fluxos Alternativos: 2a. O caixa já está fechado.
+Pós-condições: O caixa está fechado.
+
+Fluxos Alternativos: 
+2a. O caixa já está fechado.
