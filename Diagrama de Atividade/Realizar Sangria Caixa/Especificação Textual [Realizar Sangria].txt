@@ -1,0 +1,16 @@
+Caso de Uso: Realizar Sangria de Caixa
+
+Ator principal: Administrador / Funcionário
+
+Pré-condições: Caixa deve estar aberto.
+
+Fluxo Principal (cenário de sucesso):
+
+1. O administrador/funcionário informa o valor da sangria.
+2. O sistema atualiza o saldo do caixa com a sangria.
+3. O sistema emite um comprovante da operação de sangria.
+
+Pós-condições: O saldo do caixa é atualizado e o comprovante é emitido.
+
+Fluxo Alternativo: 
+Não Possuí

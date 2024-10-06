@@ -1,0 +1,14 @@
+Caso de Uso: Fechar Caixa
+Ator principal: Administrador/Funcionário
+
+Pré-condições: O caixa está Aberto.
+
+Fluxo Principal (cenário de sucesso):
+
+1. O Administrador/Funcionário solicita o fechamento do caixa.
+2. O sistema realiza o fechamento do caixa.
+
+Pós-condições: O caixa está fechado.
+
+Fluxos Alternativos: 
+Não Possuí.
