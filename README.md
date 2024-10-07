@@ -110,6 +110,9 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Receber Produto**  
   Especificação: [Receber Produto](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/Especifica%C3%A7%C3%A3o%20Textual%20%5BReceber%20Produtos%5D.txt)
 
+- **Caso: Pagar Fornecedor**  
+  Especificação: [Em Desenvolvimento...](google.com)
+
 - **Caso: Manter Funcionário (CRUD)**  
   Especificação: [CRUD Funcionário](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20%5BCRUD%20Funcion%C3%A1rio%5D.txt)
 
@@ -130,6 +133,8 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
  - [Diagrama de Atividade - Realizar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/DEA_RealizarSuprimentoCaixa.png)
 
 - [Diagrama de Atividade - Receber Produtos](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/DEA_ReceberProdutos.png)
+
+- [Diagrama de Atividade - Pagar Fornecedor]()
   
 ### CRUD Funcionário
 - [Diagrama de Atividade - CRUD Funcionário Inserir](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Incluir%20Funcion%C3%A1rio.png)
