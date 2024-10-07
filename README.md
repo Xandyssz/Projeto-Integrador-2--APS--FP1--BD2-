@@ -80,38 +80,38 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 # Capítulo 4 - Requisitos Específicos
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/c0fd51618b5864803a7e4472529098f06822b09d/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
+![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
 
 <hr>
 
 ## Especificação Textual dos Casos de Uso
 
 - **Caso: Efetuar Venda**  
-  Especificação: [Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarVenda.txt)
+  Especificação: [Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/Especifica%C3%A7%C3%A3o%20Textual%20%5BEfetuar%20Venda%5D.txt)
   
 - **Caso: Abrir Caixa**  
-  Especificação: [Abrir Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Abrir%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20Abrir%20Caixa.txt)
+  Especificação: [Abrir Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Abrir%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20%5BAbrir%20Caixa%5D.txt)
 
 - **Caso: Fechar Caixa**  
-  Especificação: [Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20Fechar%20Caixa.txt)
+  Especificação: [Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20%5BFechar%20Caixa%5D.txt)
 
 - **Caso: Efetuar Sangria**  
-  Especificação: [Efetuar Sangria](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Sangria%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20-%20Realizar%20Sangria.txt)
+  Especificação: [Efetuar Sangria](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Sangria%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20%5BRealizar%20Sangria%5D.txt)
 
 - **Caso: Efetuar Suplementação**  
-  Especificação: [Efetuar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20Suprimento%20Caixa.txt)
+  Especificação: [Efetuar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Realizar%20Suprimento%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20%5BSuplementa%C3%A7%C3%A3o%20Caixa%5D.txt)
 
 - **Caso: Efetuar Compra**  
-  Especificação: [Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/Especifica%C3%A7%C3%A3o%20Textual%20-%20EfetuarCompra.txt)
+  Especificação: [Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra/Especifica%C3%A7%C3%A3o%20Textual%20%5BEfetuar%20Compra%5D.txt)
 
 - **Caso: Pagar Fornecedor**  
-  Especificação: [Pagar Fornecedor](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Pagar%20Fornecedor/Especifica%C3%A7%C3%A3o%20Textual%20Pagar%20Fornecedor.txt)
+  Especificação: [Pagar Fornecedor](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Pagar%20Fornecedor/Especifica%C3%A7%C3%A3o%20Textual%20%5BPagar%20Fornecedor%5D.txt)
 
 - **Caso: Receber Produto**  
-  Especificação: [Receber Produto](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/Especifica%C3%A7%C3%A3o%20Textual%20-%20Receber%20Produtos.txt)
+  Especificação: [Receber Produto](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/Especifica%C3%A7%C3%A3o%20Textual%20%5BReceber%20Produtos%5D.txt)
 
 - **Caso: Manter Funcionário (CRUD)**  
-  Especificação: [CRUD Funcionário](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20-%20CRUD%20Funcion%C3%A1rio.txt)
+  Especificação: [CRUD Funcionário](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20%5BCRUD%20Funcion%C3%A1rio%5D.txt)
 
 ### Diagramas de Atividade
 
