@@ -142,3 +142,12 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - [Diagrama de Atividade - CRUD Funcionário Remover](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Excluir%20Funcion%C3%A1rio.png)
 - [Diagrama de Atividade - CRUD Funcionário Consultar](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Visualizar%20Funcion%C3%A1rio.png)
 <hr>
+
+# Capítulo 5 - Projeto de Software
+### Arquitetura Lógica de Software
+![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
+<hr>
+
+### Diagrama de Classes
+![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
+<hr>
