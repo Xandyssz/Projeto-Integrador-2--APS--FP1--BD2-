@@ -145,9 +145,15 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 # Capítulo 5 - Projeto de Software
 ### Arquitetura Lógica de Software
-![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
+![Arqutietura Lógica de Software](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Arquitetura%20L%C3%B3gica/Arquitetura%20L%C3%B3gica.png)
 <hr>
 
-### Diagrama de Classes
-![Diagrama de Caso de Uso](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20Caso%20de%20Uso/DCU-Principal.png)
+### Diagrama de Classes - Modelo
+![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Modelo/DiagramaClasses%20-%20MODELO.png)
+
+### Diagrama de Classes - Visão
+![Diagrama de Classe - Visão](-----)
+
+### Diagrama de Classes - Controle
+![Diagrama de Classe - Controle](---)
 <hr>
