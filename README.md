@@ -150,12 +150,15 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 ### Diagrama de Classes - Modelo
 ![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Modelo/DiagramaClasses%20-%20MODELO.png)
+<hr>
 
 ### Diagrama de Classes - Visão
 ![Diagrama de Classe - Visão](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Vis%C3%A3o/DiagramaClasses-VISAO.png)
+<hr>
 
 ### Diagrama de Classes - Controle
 ![Diagrama de Classe - Controle](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Controle/DiagramaClasses-CONTROLEDAO.png)
+<hr>
 
 ### Diagrama de Sequência - (Nome do Diagrama de Sequencia)
 - [Diagrama de Sequência - Abrir Caixa](---)
@@ -177,8 +180,8 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - [Diagrama de Sequência - Receber Pagamento](---)
 
 - [Diagrama de Sequência - CRUD Funcionário](---)
+<hr>
 
 ### Mapeamento OO-Relacional - Modelo Lógico de Dados
 ![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Mapeamento%20OO-Relacional/Modelo%20L%C3%B3gico.png)
 
-<hr>
