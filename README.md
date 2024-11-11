@@ -152,8 +152,33 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 ![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Modelo/DiagramaClasses%20-%20MODELO.png)
 
 ### Diagrama de Classes - Visão
-![Diagrama de Classe - Visão](-----)
+![Diagrama de Classe - Visão](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Vis%C3%A3o/DiagramaClasses-VISAO.png)
 
 ### Diagrama de Classes - Controle
 ![Diagrama de Classe - Controle](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Controle/DiagramaClasses-CONTROLEDAO.png)
+
+### Diagrama de Sequência - (Nome do Diagrama de Sequencia)
+- [Diagrama de Sequência - Abrir Caixa](---)
+
+- [Diagrama de Sequência - Fechar Caixa](---)
+
+- [Diagrama de Sequência - Efetuar Compra](---)
+
+- [Diagrama de Sequência - Efetuar Venda](---)
+
+- [Diagrama de Sequência - Pagar Fornecedor](---)
+
+- [Diagrama de Sequência - Realizar Sangria](---)
+
+ - [Diagrama de Sequência - Realizar Suplementação](---)
+
+- [Diagrama de Sequência - Receber Produtos](---)
+
+- [Diagrama de Sequência - Receber Pagamento](---)
+
+- [Diagrama de Sequência - CRUD Funcionário](---)
+
+### Mapeamento OO-Relacional - Modelo Lógico de Dados
+![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Mapeamento%20OO-Relacional/Modelo%20L%C3%B3gico.png)
+
 <hr>
