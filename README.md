@@ -155,5 +155,5 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 ![Diagrama de Classe - Visão](-----)
 
 ### Diagrama de Classes - Controle
-![Diagrama de Classe - Controle](---)
+![Diagrama de Classe - Controle](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Controle/DiagramaClasses-CONTROLEDAO.png)
 <hr>
