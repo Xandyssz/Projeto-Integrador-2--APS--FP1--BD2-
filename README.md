@@ -110,7 +110,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Receber Produto**  
   Especificação: [Receber Produto](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/Especifica%C3%A7%C3%A3o%20Textual%20%5BReceber%20Produtos%5D.txt)
 
-- **Caso: Pagar Fornecedor**  
+- **Caso: Receber Pagamento**  
   Especificação: [Em Desenvolvimento...](google.com)
 
 - **Caso: Manter Funcionário (CRUD)**  
@@ -134,7 +134,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 - [Diagrama de Atividade - Receber Produtos](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/DEA_ReceberProdutos.png)
 
-- [Diagrama de Atividade - Pagar Fornecedor](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Pagar%20Fornecedor/DEA_PagarFornecedor.png)
+- [Diagrama de Atividade - Receber Pagamento](google.com)
   
 ### CRUD Funcionário
 - [Diagrama de Atividade - CRUD Funcionário Inserir](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Incluir%20Funcion%C3%A1rio.png)
@@ -150,10 +150,38 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 ### Diagrama de Classes - Modelo
 ![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Modelo/DiagramaClasses%20-%20MODELO.png)
+<hr>
 
 ### Diagrama de Classes - Visão
-![Diagrama de Classe - Visão](-----)
+![Diagrama de Classe - Visão](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Vis%C3%A3o/DiagramaClasses-VISAO.png)
+<hr>
 
 ### Diagrama de Classes - Controle
 ![Diagrama de Classe - Controle](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes/Diagrama%20de%20Classe%20-%20Controle/DiagramaClasses-CONTROLEDAO.png)
 <hr>
+
+### Diagrama de Sequência - (Nome do Diagrama de Sequencia)
+- [Diagrama de Sequência - Abrir Caixa](---)
+
+- [Diagrama de Sequência - Fechar Caixa](---)
+
+- [Diagrama de Sequência - Efetuar Compra](---)
+
+- [Diagrama de Sequência - Efetuar Venda](---)
+
+- [Diagrama de Sequência - Pagar Fornecedor](---)
+
+- [Diagrama de Sequência - Realizar Sangria](---)
+
+ - [Diagrama de Sequência - Realizar Suplementação](---)
+
+- [Diagrama de Sequência - Receber Produtos](---)
+
+- [Diagrama de Sequência - Receber Pagamento](---)
+
+- [Diagrama de Sequência - CRUD Funcionário](---)
+<hr>
+
+### Mapeamento OO-Relacional - Modelo Lógico de Dados
+![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Mapeamento%20OO-Relacional/Modelo%20L%C3%B3gico.png)
+
