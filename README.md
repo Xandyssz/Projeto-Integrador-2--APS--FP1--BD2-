@@ -95,7 +95,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Efetuar Venda**  
   Especificação: [Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/Especifica%C3%A7%C3%A3o%20Textual%20%5BEfetuar%20Venda%5D.txt)
 
-  - **Caso: Fechar Caixa**  
+- **Caso: Fechar Caixa**  
   Especificação: [Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20%5BFechar%20Caixa%5D.txt)
 
 - **Caso: Pagar Fornecedor**  
