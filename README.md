@@ -163,11 +163,11 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 ### Diagrama de Sequência - (Nome do Diagrama de Sequencia)
 - [Diagrama de Sequência - Abrir Caixa](---)
 
-- [Diagrama de Sequência - Fechar Caixa](---)
-
 - [Diagrama de Sequência - Efetuar Compra](---)
 
 - [Diagrama de Sequência - Efetuar Venda](---)
+
+- [Diagrama de Sequência - Fechar Caixa](---)
 
 - [Diagrama de Sequência - Pagar Fornecedor](---)
 
