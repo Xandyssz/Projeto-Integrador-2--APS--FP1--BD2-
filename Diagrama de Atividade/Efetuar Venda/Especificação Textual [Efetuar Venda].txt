@@ -8,16 +8,17 @@ Fluxo Principal (cenário de sucesso):
 
 1. O administrador/funcionário seleciona os produtos.
 2. O sistema verifica a disponibilidade dos produtos em estoque.
-3. O sistema calcula o total da venda.
+3. O sistema calcula o subtotal da venda.
 4. O administrador/funcionário escolhe o método de pagamento.
 5. O sistema processa o pagamento e emite a nota fiscal.
 6. O administrador/funcionário entrega o produto ao cliente.
 
-Pós-condições: Produto entregue e venda registrada.
+Pós-condições: Produto entregue ao cliente e venda registrada no sistema.
 
 Fluxos Alternativos:
 2.  O produto não está disponível em estoque.
-2a. O sistema notifica a falta de produtos e o administrador/funcionário decide se deseja continuar ou cancelar a operação.
-2b. O sistema cancela a operação.
-4.  O cliente escolhe pagamento em dinheiro e há necessidade de troco.
-5a. O sistema calcula o troco e o devolve ao cliente.
+2a. O administrador/funcionário decide continuar a operação e seleciona outro produto.
+2b. O administrador/funcionário decide cancelar a operação, e o sistema encerra o processo.
+4. Cliente escolhe pagamento em dinheiro e há necessidade de troco
+4a. O sistema calcula o troco necessário e exibe o valor.
+4b. O administrador/funcionário devolve o troco ao cliente.

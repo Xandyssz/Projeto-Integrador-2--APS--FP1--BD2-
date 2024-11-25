@@ -1,0 +1,28 @@
+Caso de Uso: Efetuar Compra
+
+Ator principal: Administrador
+
+Pré-condições: Caixa aberto.
+
+Fluxo Principal (cenário de sucesso):
+
+1. O administrador verifica se o caixa está aberto.
+2. O administrador seleciona o fornecedor.
+3. O sistema pesquisa o fornecedor.
+4. O administrador seleciona os produtos.
+5. O sistema calcula o total da compra.
+6. O administrador escolhe o método de pagamento. 6.1. Caso o pagamento seja parcelado, o administrador informa os dados da parcela.
+7. O sistema finaliza a compra e gera o pedido.
+
+Pós-condições: Pedido gerado e compra registrada no sistema.
+
+Fluxos Alternativos:
+1.   O fornecedor não está cadastrado.
+1.1. O sistema emite mensagem "Fornecedor não cadastrado" e questiona se o administrador deseja pesquisar outro ou cadastrá-lo.
+1.2. Caso opte por cadastrar, o administrador realiza o cadastro do fornecedor e retorna ao passo 3.
+2. O produto não está cadastrado. 
+2.1. O sistema emite mensagem "Produto não cadastrado" e questiona se o administrador deseja pesquisar outro ou cadastrá-lo. 
+2.2. Caso opte por cadastrar, o administrador realiza o cadastro do produto e retorna ao passo 4.
+3. Cancelamento da operação: 
+3.1. O administrador pode cancelar a qualquer momento ao invés de cadastrar ou pesquisar outro item, encerrando a operação sem gerar um pedido.
+

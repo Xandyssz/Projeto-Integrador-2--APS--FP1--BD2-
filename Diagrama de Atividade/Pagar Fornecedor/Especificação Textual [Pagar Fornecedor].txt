@@ -1,0 +1,22 @@
+Caso de Uso: Pagar Fornecedor
+
+Ator principal: Administrador
+
+Pré-condições: Fornecedor e faturas cadastrados no sistema.
+
+Fluxo Principal (cenário de sucesso):
+
+1. O administrador informa os dados do fornecedor que deseja pagar.
+2. O sistema localiza o fornecedor com base nas informações fornecidas.
+3. O sistema verifica se existem faturas pendentes associadas ao fornecedor.
+4. O administrador seleciona as faturas pendentes que deseja pagar.
+5. O sistema calcula o valor total das faturas selecionadas.
+6. O administrador confirma o pagamento.
+7. O Banco Central processa o pagamento e emite um comprovante.
+8. O sistema atualiza o registro de pagamento.
+
+Pós-condições: Registro de pagamento atualizado e comprovante emitido.
+
+Fluxos Alternativos: 
+3. Não há faturas pendentes. 
+3.1. Caso não existam faturas pendentes, o sistema notifica o administrador e a operação é encerrada.

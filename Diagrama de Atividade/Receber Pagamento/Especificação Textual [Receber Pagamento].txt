@@ -1,0 +1,23 @@
+Referência Cruzada: RF_FF08
+Ator Principal: Administrador / Funcionário
+Pré-Condições: Caixa Aberto
+Garantia de Sucesso (pós-condições):  Pagamento registrado no sistema, troco devolvido (se aplicável).
+
+Fluxo Básico: 
+1. O administrador/funcionário seleciona o método de pagamento.
+2. O sistema verifica e processa o pagamento.
+3. O sistema emite a nota fiscal.
+4. O administrador/funcionário conclui a operação, entregando a nota fiscal ao cliente.
+
+Fluxo Alternativo:
+2. Pagamento via PIX ou cartão falha.
+2a. O administrador/funcionário é notificado sobre o erro.
+2b. O administrador/funcionário decide tentar outro método de pagamento ou cancelar a operação.
+
+3. Pagamento em dinheiro com necessidade de troco.
+2a. O sistema calcula o troco necessário e informa o valor.
+2b. O administrador/funcionário devolve o troco ao cliente.
+
+4. Falta de troco disponível no caixa.
+2a. O sistema alerta o administrador/funcionário.
+2b. O administrador/funcionário negocia com o cliente para ajustar o valor ou cancelar a operação.
