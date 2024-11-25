@@ -95,7 +95,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - **Caso: Efetuar Venda**  
   Especificação: [Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda/Especifica%C3%A7%C3%A3o%20Textual%20%5BEfetuar%20Venda%5D.txt)
 
-  - **Caso: Fechar Caixa**  
+- **Caso: Fechar Caixa**  
   Especificação: [Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa/Especifica%C3%A7%C3%A3o%20Textual%20%5BFechar%20Caixa%5D.txt)
 
 - **Caso: Pagar Fornecedor**  
@@ -111,7 +111,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
   Especificação: [Receber Produto](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Receber%20Produtos/Especifica%C3%A7%C3%A3o%20Textual%20%5BReceber%20Produtos%5D.txt)
 
 - **Caso: Receber Pagamento**  
-  Especificação: [Em Desenvolvimento...](google.com)
+  Especificação: [Receber Pagamento](google.com)
 
 - **Caso: Manter Funcionário (CRUD)**  
   Especificação: [CRUD Funcionário](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/Especifica%C3%A7%C3%A3o%20Textual%20%5BCRUD%20Funcion%C3%A1rio%5D.txt)
@@ -122,9 +122,9 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 - [Diagrama de Atividade - Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Compra%20-/DEA_EfetuarCompra%20(ATUALIZADO).png)
 
-- [Diagrama de Atividade - Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda%20-/DEA_EfetuarVenda%20(ATUALIZADO).png)
+- [Diagrama de Atividade - Efetuar Venda](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Efetuar%20Venda%20-/DEA_EfetuarVenda.png)
 
-- [Diagrama de Atividade - Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa%20-/DEA_Fechar_Caixa.png)
+- [Diagrama de Atividade - Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Fechar%20Caixa%20-/DEA-Fechar_Caixa.png)
 
 - [Diagrama de Atividade - Pagar Fornecedor](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Pagar%20Fornecedor%20-/DEA_PagarFornecedor.png)
 
@@ -163,11 +163,11 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 ### Diagrama de Sequência - (Nome do Diagrama de Sequencia)
 - [Diagrama de Sequência - Abrir Caixa](---)
 
-- [Diagrama de Sequência - Fechar Caixa](---)
-
 - [Diagrama de Sequência - Efetuar Compra](---)
 
 - [Diagrama de Sequência - Efetuar Venda](---)
+
+- [Diagrama de Sequência - Fechar Caixa](---)
 
 - [Diagrama de Sequência - Pagar Fornecedor](---)
 
