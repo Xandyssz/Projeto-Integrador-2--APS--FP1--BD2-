@@ -1,4 +1,4 @@
-Referência Cruzada: RF_FF08
+Caso de Uso: Receber Pagamento
 Ator Principal: Administrador / Funcionário
 Pré-Condições: Caixa Aberto
 Garantia de Sucesso (pós-condições):  Pagamento registrado no sistema, troco devolvido (se aplicável).
