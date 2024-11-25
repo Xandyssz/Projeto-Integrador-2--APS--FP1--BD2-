@@ -145,7 +145,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 # Capítulo 5 - Projeto de Software
 ### Arquitetura Lógica de Software
-![Arqutietura Lógica de Software]()
+![Arqutietura Lógica de Software](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes%20-%20ok/Arquitetura%20L%C3%B3gica/Arquitetura%20L%C3%B3gica.png)
 <hr>
 
 ### Diagrama de Classes - Modelo
@@ -157,7 +157,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 <hr>
 
 ### Diagrama de Classes - Controle
-![Diagrama de Classe - Controle]([https](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes%20-%20ok/Diagrama%20de%20Classe%20-%20Controle/DiagramaClasses-CONTROLE.png))
+![Diagrama de Classe - Controle](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes%20-%20ok/Diagrama%20de%20Classe%20-%20Controle/DiagramaClasses-CONTROLE.png)
 <hr>
 
 ### Diagrama de Sequência
