@@ -149,7 +149,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 <hr>
 
 ### Diagrama de Classes - Modelo
-![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes%20-%20ok/Arquitetura%20L%C3%B3gica/Arquitetura%20L%C3%B3gica.png)
+![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Classes%20-%20ok/Diagrama%20de%20Classe%20-%20Modelo/DiagramaClasses%20-%20MODELO.png)
 <hr>
 
 ### Diagrama de Classes - Visão
