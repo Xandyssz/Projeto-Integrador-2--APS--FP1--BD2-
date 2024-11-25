@@ -185,3 +185,26 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 ### Mapeamento OO-Relacional - Modelo Lógico de Dados
 ![Diagrama de Classe - Modelo](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Mapeamento%20OO-Relacional/Modelo%20L%C3%B3gico.png)
 
+## Mapeamento OO-Relacional - Modelo Físico de Dados
+Caixa(PK(codigoCaixa), dataAbertura, dataFechamento, horarioAbertura, horarioFechamento, status, totalEntradas, totalSaidas, valorAbertura, valorFechamento)
+
+Fornecedor(PK(codigoFornecedor), cep, cidade, cnpj, email, endereco, nome, responsavel, telefone, uf)
+
+Compra(PK(codigoCompra), dataCompra, formaPagamento, valorTotal, FK(codigoFornecedor))
+
+Convenio(PK(codigoConvenio), cnpj, desconto, email, endereco, nome, telefone)
+
+Funcionario(PK(codigoFuncionario), cep, cidade, cpf, endereco, login, nivelAcesso, nome, salario, senha, telefone, uf)
+
+Movimentacao(PK(codigoMovimentacao, FK(codigoCaixa)), motivo, tipo, valor)
+
+PagamentoCompra(PK(FK(codigoCompra), parcela), valor, vencimento, status, FK(codigoCaixa))
+
+Produto(PK(codigoProduto), categoria, dataFabricacao, dataValidade, descricao, dosagem, lote, nome, quantidade, valor)
+
+ProdutoCompra(PK(FK(codigoCompra), FK(codigoProduto)), preco, quantidade, subtotal)
+
+Venda(PK(codigoVenda), dataVenda, formaPagamento, valorVenda, FK(codigoCaixa), FK(codigoConvenio))
+
+ProdutoVenda(PK(FK(codigoProduto), FK(codigoVenda)), preco, quantidade, subtotal)
+
