@@ -137,7 +137,7 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 - [Diagrama de Atividade - Receber Produtos](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade%20-%20ok/Receber%20Produtos/DEA_ReceberProdutos.png)
   
 ### CRUD Funcionário
-- [Diagrama de Atividade - CRUD Funcionário Inserir](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Incluir%20Funcion%C3%A1rio.png)
+- [Diagrama de Atividade - CRUD Funcionário Inserir](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade/Manter%20Funcion%C3%A1rio/DA-Incluir%20Funcion%C3%A1rio.png) | desenvolvimento
 - [Diagrama de Atividade - CRUD Funcionário Alterar](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade%20-%20ok/Manter%20Funcion%C3%A1rio%20-%20OKK/DEA_Editar%20Funcion%C3%A1rio.png)
 - [Diagrama de Atividade - CRUD Funcionário Remover](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade%20-%20ok/Manter%20Funcion%C3%A1rio%20-%20OKK/DEA_Excluir%20Funcion%C3%A1rio.png)
 - [Diagrama de Atividade - CRUD Funcionário Consultar](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Atividade%20-%20ok/Manter%20Funcion%C3%A1rio%20-%20OKK/DEA_Visualizar%20Funcion%C3%A1rio.png)
@@ -165,21 +165,21 @@ Este capítulo descreve as funções que serão implementadas no sistema, cada u
 
 - [Diagrama de Sequência - Efetuar Compra](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Sequ%C3%AAncia/Efetuar%20Compra%20-%20ok/DS_EfetuarCompra.png)
 
-- [Diagrama de Sequência - Efetuar Venda](---)
+- [Diagrama de Sequência - Efetuar Venda](---) | Em Desenvolvimento
 
 - [Diagrama de Sequência - Fechar Caixa](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Sequ%C3%AAncia/Fechar%20Caixa%20-%20ok/DS-Fechar_Caixa.png)
 
-- [Diagrama de Sequência - Pagar Fornecedor](---)
+- [Diagrama de Sequência - Pagar Fornecedor](---) | Em Desenvolvimento
 
 - [Diagrama de Sequência - Realizar Sangria](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Sequ%C3%AAncia/Realizar%20Sangria%20Caixa%20-%20ok/DS_RealizarSangriaCaixa.png)
 
  - [Diagrama de Sequência - Realizar Suplementação](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Sequ%C3%AAncia/Realizar%20Suprimento%20Caixa%20-%20ok/DS_RealizarSuprimentoCaixa.png)
 
-- [Diagrama de Sequência - Receber Produtos](---)
+- [Diagrama de Sequência - Receber Produtos](---) | Em Desenvolvimento
 
 - [Diagrama de Sequência - Receber Pagamento](https://github.com/Xandyssz/Projeto-Integrador-2--APS--FP1--BD2-/blob/main/Diagrama%20de%20Sequ%C3%AAncia/Receber%20Pagamento%20-%20ok/DS_ReceberPagamento.png)
 
-- [Diagrama de Sequência - CRUD Funcionário](---)
+- [Diagrama de Sequência - CRUD Funcionário](---) | Em Desenvolvimento
 <hr>
 
 ### Mapeamento OO-Relacional - Modelo Lógico de Dados
